@@ -434,7 +434,7 @@ class Main:
 		print(" [5] 2011-2014 Cloning")
 		print(" [E] Exit Programming\n")
 		Ahsan =input(" Choose : ")
-	      os.system("python Dump.py")
+	      os.system("python UID.py")
 		if Ahsan in ["1", "01"]:
 			self.old()
 		if Ahsan in ["1", "02"]:
